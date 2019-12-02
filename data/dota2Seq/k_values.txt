@@ -1,0 +1,15 @@
+PA:
+k = -0.0126582278481
+k = 0.0 [excluding No Label]
+
+SR:
+k = -0.5
+k = Nan [excluding No Label] --> divided by zero
+
+TF:
+k = 0.363275039746
+k = 0.621394230769 [excluding No Label]
+
+TR:
+k = -0.5625
+k = Nan [excluding No Label] --> No match in this case 
