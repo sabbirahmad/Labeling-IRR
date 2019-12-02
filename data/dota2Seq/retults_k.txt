@@ -1,0 +1,11 @@
+SR
+k = 0.162162162162
+k = 0.315436241611 [excluding No Label]
+
+TF
+k = 0.39963359081
+k = 0.571565594059  [excluding No Label]
+
+TR
+k = -0.020618556701
+k = 0.5  [excluding No Label]
